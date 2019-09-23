@@ -21,14 +21,6 @@
             "Q2", 
             "Q2.json"
           ]
-        }, 
-        {
-          "!type": "External", 
-          "file": [
-            "forms", 
-            "Q3", 
-            "Q3.json"
-          ]
         }
       ], 
       "configxml": null, 
@@ -43,7 +35,7 @@
       "eslintRules": null, 
       "expanded_pmp": null, 
       "extraheaders": null, 
-      "firstform": "Form1", 
+      "firstform": "Q2", 
       "fontFamily": "system", 
       "homescreenTitle": "", 
       "icon": "nsb/images/192.png", 
